@@ -18,7 +18,7 @@ O jogo também conta com pontuação dinâmica, sistema de game over, botão par
 - Controle por teclado (setas direcionais)
 - Pontuação progressiva
 - Reinício automático ao fim da partida
-- Geração aleatória de comida
+- Geração aleatória de comida com cores variadas
 - Efeito sonoro ao comer
 
 ## 📸 Prévia
