@@ -135,6 +135,8 @@ const checkEat = () => {
 
         food.x = x
         food.y = y
+        food.color = randomColor();
+
     }
 }
 
